@@ -1,0 +1,85 @@
+[
+    {
+        "codContrato": "419028316",
+        "tipContrato": "ELE",
+        "importeUltimaFactura": "15,20",
+        "fechaUltimaFactura": "28/12/2017",
+        "esTelegestionado": true,
+        "tipEstContrato": "AL",
+        "consumoDesdeUltimaFactura": "-1",
+        "fechaHoy": "-1",
+        "fechaHoyLong": -1,
+        "fechaHastaUltimaFactura": 1514246400000,
+        "listaImportesMT": null,
+        "hasError": true,
+        "tipoError": "",
+        "textoSnackBar": "Esto es un error custom."
+    },
+    {
+        "codContrato": "1018715451",
+        "tipContrato": "GAS",
+        "importeUltimaFactura": "25,50",
+        "fechaUltimaFactura": "12/12/2017",
+        "esTelegestionado": false,
+        "tipEstContrato": "AL",
+        "consumoDesdeUltimaFactura": "0",
+        "fechaHoy": null,
+        "fechaHoyLong": null,
+        "fechaHastaUltimaFactura": null,
+        "listaImportesMT": [
+            {
+                "anyo": 2017,
+                "importeTotalAnyo": "135,21",
+                "importeMedioAnyo": "45,07"
+            }
+        ],
+        "hasError": false,
+        "tipoError": null,
+        "textoSnackBar": null
+    },
+    {
+        "codContrato": "1015253331",
+        "tipContrato": "SMG",
+        "importeUltimaFactura": "100,25",
+        "fechaUltimaFactura": "12/12/2017",
+        "esTelegestionado": false,
+        "tipEstContrato": "AL",
+        "consumoDesdeUltimaFactura": "0",
+        "fechaHoy": null,
+        "fechaHoyLong": null,
+        "fechaHastaUltimaFactura": null,
+        "listaImportesMT": [
+            {
+                "anyo": 2017,
+                "importeTotalAnyo": "135,21",
+                "importeMedioAnyo": "45,07"
+            }
+        ],
+        "hasError": false,
+        "tipoError": null,
+        "textoSnackBar": null
+    },
+    {
+        "codContrato": "1018715451",
+        "tipContrato": "HSI",
+        "importeUltimaFactura": "50,10",
+        "fechaUltimaFactura": "12/12/2017",
+        "esTelegestionado": false,
+        "tipEstContrato": "AL",
+        "consumoDesdeUltimaFactura": "0",
+        "fechaHoy": null,
+        "fechaHoyLong": null,
+        "fechaHastaUltimaFactura": null,
+        "listaImportesMT": [
+            {
+                "anyo": 2017,
+                "importeTotalAnyo": "135,21",
+                "importeMedioAnyo": "45,07"
+            }
+        ],
+        "hasError": false,
+        "tipoError": null,
+        "textoSnackBar": null
+    }
+]
+
